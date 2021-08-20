@@ -1,12 +1,11 @@
 # Project name: Website-Project
-
-
 ## Project Objective
 •	Designed and created a responsive portfolio website from scratch to host all my project using HTML, CSS, which are the building block of the web.
-
-
+## Project link
+https://samaggrey.com/
 ## Project Key Features:
 It was an Intensive project-based training program with a focus on Intro to Frontend Development. 
+
 ## Tech Stack:
 ###### HTML
 ###### CSS
